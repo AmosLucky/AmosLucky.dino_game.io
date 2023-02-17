@@ -1,6 +1,6 @@
 {
-    "name": "flame_tutorial",
-    "short_name": "flame_tutorial",
+    "name": "Dino run game",
+    "short_name": "Dino run game",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
